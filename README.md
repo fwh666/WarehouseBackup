@@ -1,2 +1,9 @@
-# WarehouseBackup
-This is just a warehouse backup
+# Maven模板工程
+
+## 环境:
+- jdk8
+- springboot2.7.3
+- 依赖:
+  - web
+  - JSon
+  - Http
