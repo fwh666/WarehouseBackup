@@ -5,5 +5,6 @@
 - springboot2.7.3
 - 依赖:
   - web
-  - JSon
+  - Jackson
   - Http
+  - log
