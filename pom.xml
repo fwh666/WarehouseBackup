@@ -11,7 +11,7 @@
     </parent>
 
     <groupId>club.fuwenhao</groupId>
-    <artifactId>template</artifactId>
+    <artifactId>maven_template</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
